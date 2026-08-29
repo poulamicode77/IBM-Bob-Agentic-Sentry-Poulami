@@ -36,7 +36,7 @@ Maintaining legacy software costs enterprises over **$1.52 trillion annually**. 
 | **API Documentation** | Missing / Outdated | **Automated OpenAPI 3.0** | Instant Sync |
 ---
 ### IBM Bob Task Session Documentation
-Screenshots of the complete IBM Bob task session and reasoning summaries are documented in [`/docs/bob-sessions/`](./docs/bob-sessions/).
+Screenshots of the complete IBM Bob task session and reasoning summaries are documented in [`/docs/`](./docs/).
 ---
 
 ## 🏗️ Architecture & Agentic Workflow
