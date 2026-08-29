@@ -34,7 +34,9 @@ Maintaining legacy software costs enterprises over **$1.52 trillion annually**. 
 | **Security Coverage** | Manual Code Review | **100% Parameterized / CWE Fixed** | Automated Baseline |
 | **Unit Test Coverage** | 0% Baseline | **94% Generated Coverage** | +94% Boost |
 | **API Documentation** | Missing / Outdated | **Automated OpenAPI 3.0** | Instant Sync |
-
+---
+### IBM Bob Task Session Documentation
+Screenshots of the complete IBM Bob task session and reasoning summaries are documented in [`/docs/bob-sessions/`](./docs/bob-sessions/).
 ---
 
 ## 🏗️ Architecture & Agentic Workflow
@@ -58,6 +60,4 @@ Maintaining legacy software costs enterprises over **$1.52 trillion annually**. 
   [ modern_app.py ]              [ test_modern_app.py ]          [ openapi.yaml ]
   FastAPI Service                 Pytest Suite                    OpenAPI 3.0 Spec
 
----
-### IBM Bob Task Session Documentation
-Screenshots of the complete IBM Bob task session and reasoning summaries are documented in [`/docs/bob-sessions/`](./docs/bob-sessions/).
+
